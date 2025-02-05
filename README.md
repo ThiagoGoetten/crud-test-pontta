@@ -5,3 +5,6 @@ O Backend Foi feito no Intellij
 O Frontend foi feito no VSCode
 Banco de Dados usei o Mysql
 Tambem usei o Postman para os testes
+
+
+Finalizei a primeira etapa e faltou apenas corrigir no Controller o metodo Update e Delete para finalizar a Segunta etapa
