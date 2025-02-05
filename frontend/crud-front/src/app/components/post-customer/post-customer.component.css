@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #428df0, #022074);
+    padding: 20px;
+    background-size: border-box;
+}
+
+.form-container{
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    background-color: rgb(6, 111, 153);
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.form-title{
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.form-group{
+    margin-bottom: 20px;
+}
+
+label{
+    display: block;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+
+input[type="text"], input[type="email"], input[type="password"]{
+    width: 90%;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
